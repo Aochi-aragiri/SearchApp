@@ -1,0 +1,9 @@
+.footer a {
+  color: hsl(171, 100%, 41%);
+}
+.control.has-icons-left .icon.is-left i {
+  color: hsl(142, 52%, 96%);
+}
+progress[value]::-webkit-progress-value {
+  transition: width 0.4s ease-in-out;
+}
